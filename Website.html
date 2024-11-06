@@ -18,9 +18,9 @@
         <section>
             <h2>Pentingnya Menjaga Makanan dan Minuman untuk Kesehatan Gigi</h2>
             <div class="card">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\dokterh1.png" width="170" height="130">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\makanan1.jpeg" width="170" height="140">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\gigih1.png" width="170" height="140">
+                <img src="asset\dokterh1.png" width="170" height="130">
+                <img src="asset\makanan1.jpeg" width="170" height="140">
+                <img src="asset\gigih1.png" width="170" height="140">
                 <p>Kenapa sih sangat penting menjaga makanan dan minuman untuk kesehatan gigi? karena makanan danminuman itu proses terjadinya mekanisme pertama berada pada mulut. Pemilihan makanan yang baik untuk adalah yang mengandung serat, dan minuman yang baik adalah yang mengandung mineraldan kalsium. Jika gigi dan gusi tidak dirawat, hal itu bisa menyebabkan gangguan pada pengunyahan yang disebabkan oleh aktivitas bakteri. </p>
             </div>
         </section>
@@ -33,9 +33,9 @@
                     produksi saliva, mencegah mulut
                     kering, memperkuat gigi.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\air putih.png" width="170 " height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\air putih2.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\air putih3.jpeg" width="170" height="140">
+                    <img src="asset\air putih.png" width="170 " height="140">
+                    <img src="asset\air putih2.jpeg" width="170" height="140">
+                    <img src="asset\air putih3.jpeg" width="170" height="140">
                 </div>
             </div>
             <div class="card">
@@ -44,9 +44,9 @@
                     buah dapat mencegah kerusakan
                     pada jaringan gigi.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\buah.jpg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\buah3.png" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\buah4.jpeg" width="170" height="140">
+                    <img src="asset\buah.jpg" width="170" height="140">
+                    <img src="asset\buah3.png" width="170" height="140">
+                    <img src="asset\buah4.jpeg" width="170" height="140">
                 </div>
             </div>
             <div class="card">
@@ -56,9 +56,9 @@
                     sisa-sisa makanan & kandungan
                     kalsium dapat membentuk email.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\sayur1.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\sayur3.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\sayur2.jpeg" width="170" height="140">
+                    <img src="asset\sayur1.jpeg" width="170" height="140">
+                    <img src="asset\sayur3.jpeg" width="170" height="140">
+                    <img src="asset\sayur2.jpeg" width="170" height="140">
                 </div>
             </div>
             <div class="card">
@@ -67,9 +67,9 @@
                     mengandung protein, kalsium
                     untuk memperkuat gigi.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\daging.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\daging2.png" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\daging1.jpeg" width="170" height="140">
+                    <img src="asset\daging.jpeg" width="170" height="140">
+                    <img src="asset\daging2.png" width="170" height="140">
+                    <img src="asset\daging1.jpeg" width="170" height="140">
                 </div>
             </div>
             <div class="card">
@@ -78,9 +78,9 @@
                     dapat membantu memutihkan
                     gigi dan memperkuat gigi.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\kacang4.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\kacang5.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\kacang3.jpeg" width="170" height="140">
+                    <img src="asset\kacang4.jpeg" width="170" height="140">
+                    <img src="asset\kacang5.jpeg" width="170" height="140">
+                    <img src="asset\kacang3.jpeg" width="170" height="140">
                 </div>
             </div>
             <div class="card">
@@ -88,9 +88,9 @@
                 <p>Kandungan kalsium yang
                     tinggi dapat memperkuat gigi.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\susu.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\susu4.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\susu2.jpeg" width="170" height="140">
+                    <img src="asset\susu.jpeg" width="170" height="140">
+                    <img src="asset\susu4.jpeg" width="170" height="140">
+                    <img src="asset\susu2.jpeg" width="170" height="140">
                 </div>
             </div>
             <div class="card">
@@ -98,9 +98,9 @@
                 <p>Keju dapat melindungi gigi dari
                     resiko terjadinya gigi berlubang.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\keju.jpeg" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\keju4.png" width="170" height="140">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\keju1.jpeg" width="170" height="140">
+                    <img src="asset\keju.jpeg" width="170" height="140">
+                    <img src="asset\keju4.png" width="170" height="140">
+                    <img src="asset\keju1.jpeg" width="170" height="140">
                 </div>
             </div>
         </section>
@@ -109,9 +109,9 @@
             <h2>Makanan dan Minuman yang Tidak Baik untuk Gigi</h2>
             <p>GigiMakanan dan minuman yang tidakbaik untuk gigi adalah yang mengandung banyak gula, lengket,asam, bertekstur keras, panas dan dingin.</p>
             <div class="image-slot">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\tidaksehat2.jpeg" width="170" height="140">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\tidaksehat1.jpeg" width="170" height="140">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\tidaksehat3.jpeg" width="170" height="140">
+                <img src="asset\tidaksehat2.jpeg" width="170" height="140">
+                <img src="asset\tidaksehat1.jpeg" width="170" height="140">
+                <img src="asset\tidaksehat3.jpeg" width="170" height="140">
             </div>
         </section>
 
@@ -122,7 +122,7 @@
                 <h3>1. Bau mulut</h3>
                 <p>Kurangnya makan dan minum juga dapat mengurangi produksi air liur sehingga terjadi pengeringan rongga mulut dan dapat muncul bau tidak sedap..</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\bau mulut.jpeg" width="170 " height="140">
+                    <img src="asset\bau mulut.jpeg" width="170 " height="140">
                 </div>
             </div>
 
@@ -130,7 +130,7 @@
                 <h3>2. Karies/gigi berlubang</h3>
                 <p>Konsumsi gula menjadi peningaktan risiko terjadinya karies gigi.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\karies.jpeg" width="170 " height="140">
+                    <img src="asset\karies.jpeg" width="170 " height="140">
                 </div>
             </div>
 
@@ -138,7 +138,7 @@
                 <h3>3. Gingivitis/peradangan gusi</h3>
                 <p>Kekurangan gizi dan vitamin C dapat meningkatkan risiko gingvitis.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\gingivitis.jpeg" width="170 " height="140">
+                    <img src="asset\gingivitis.jpeg" width="170 " height="140">
                 </div>
             </div>
 
@@ -146,7 +146,7 @@
                 <h3>4. Periodontitis</h3>
                 <p>Gingivitis yang tidak tertangani akan berkembang menjadi perodontitis.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\periodontitis.png" width="170 " height="140">
+                    <img src="asset\periodontitis.png" width="170 " height="140">
                 </div>
             </div>
 
@@ -154,7 +154,7 @@
                 <h3>5. Sariawan</h3>
                 <p>Kurangnya asupan nutrisi seperti zat besi, asam folat, vitamin C, dan vitamin B2 dapat membuat sariawan.</p>
                 <div class="image-slot">
-                    <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\sariawan.jpeg" width="170 " height="140">
+                    <img src="asset\sariawan.jpeg" width="170 " height="140">
                 </div>
             </div>
         </section>
@@ -171,10 +171,10 @@
                 <li>Perawatan gigi dengan fluoride</li>
             </ul>
             <div class="image-slot">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\sikat gigi.jpeg" width="140" height="140">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\berkumur.jpg" width="140" height="140">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\dokter1.jpg" width="140" height="140">
-                <img src="c:\Users\IKHWAN FAUZI\Documents\Website Ratna\asset\makanan2.jpeg" width="140" height="140">
+                <img src="asset\sikat gigi.jpeg" width="140" height="140">
+                <img src="asset\berkumur.jpg" width="140" height="140">
+                <img src="asset\dokter1.jpg" width="140" height="140">
+                <img src="asset\makanan2.jpeg" width="140" height="140">
             </div>
         </section>
     </div>
